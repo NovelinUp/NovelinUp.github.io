@@ -54,7 +54,7 @@
         "@context": "https://schema.org",
         "@type": "WebPage",
         "datePublished": "2021-06-07T20:17:43+00:00",
-        "dateModified": "2021-06-08T13:39:28+00:00",
+        "dateModified": "2021-06-08T13:41:23+00:00",
         "url": "https://novelinup.github.io/life/",
         "name": "Life",
         "description": "",
@@ -231,6 +231,19 @@
 
 
             
+
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<text class="poem_sentence"></text>
+<text class="poem_info"></text>
+<script type="text/javascript">
+  jinrishici.load(function(result) {
+    var sentence = document.querySelector(".poem_sentence")
+    var info = document.querySelector(".poem_info")
+    sentence.innerHTML = result.data.content
+    info.innerHTML = '—— ' + result.data.origin.author
+  });
+</script>
+
         </div>
     </footer>
 

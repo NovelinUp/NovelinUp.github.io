@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Novelin</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-06-08T13:39:29&#43;00:00</updated>
+    <updated>2021-06-08T13:41:25&#43;00:00</updated>
     <id>https://novelinup.github.io/</id>
     <link rel="alternate" type="text/html" href="https://novelinup.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://novelinup.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">建站说</title>
             <link rel="alternate" type="text/html" href="https://novelinup.github.io/tech/%E5%BB%BA%E7%AB%99%E8%AF%B4/" />
             <id>https://novelinup.github.io/tech/%E5%BB%BA%E7%AB%99%E8%AF%B4/</id>
-            <updated>2021-06-08T13:39:28&#43;00:00</updated>
+            <updated>2021-06-08T13:41:23&#43;00:00</updated>
             <published>2021-06-08T19:42:15&#43;08:00</published>
             <author>
                     <name>Novelin</name>
@@ -56,7 +56,7 @@
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://novelinup.github.io/tech/hello-world/" />
             <id>https://novelinup.github.io/tech/hello-world/</id>
-            <updated>2021-06-08T13:39:28&#43;00:00</updated>
+            <updated>2021-06-08T13:41:23&#43;00:00</updated>
             <published>2021-06-07T21:59:05&#43;08:00</published>
             <author>
                     <name>Novelin</name>
