@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2021-06-07T21:59:05+08:00
-draft: true
+draft: false
 ---
 
 经过一番折腾，又一次回到了个人博客
