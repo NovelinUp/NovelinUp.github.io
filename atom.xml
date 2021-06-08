@@ -4,12 +4,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Novelin</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-06-08T11:35:50&#43;00:00</updated>
+    <updated>2021-06-08T13:39:29&#43;00:00</updated>
     <id>https://novelinup.github.io/</id>
     <link rel="alternate" type="text/html" href="https://novelinup.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://novelinup.github.io/atom.xml" />
     <author>
-            <name>novelin</name>
+            <name>Novelin</name>
             <uri>https://novelinup.github.io/</uri>
             
                 <email>novelin@qq.com</email>
@@ -17,13 +17,49 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
         <entry>
+            <title type="text">建站说</title>
+            <link rel="alternate" type="text/html" href="https://novelinup.github.io/tech/%E5%BB%BA%E7%AB%99%E8%AF%B4/" />
+            <id>https://novelinup.github.io/tech/%E5%BB%BA%E7%AB%99%E8%AF%B4/</id>
+            <updated>2021-06-08T13:39:28&#43;00:00</updated>
+            <published>2021-06-08T19:42:15&#43;08:00</published>
+            <author>
+                    <name>Novelin</name>
+                    <uri>https://novelinup.github.io/</uri>
+                    <email>novelin@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">建立本站花了点心思。虽然操作都不难，但有一些细节还是需要记录。 首先，放下「作者」的文……</summary>
+            
+                <content type="html">&lt;p&gt;建立本站花了点心思。虽然操作都不难，但有一些细节还是需要记录。&lt;/p&gt;
+&lt;p&gt;首先，放下「作者」的&lt;a href=&#34;https://io-oi.me/tech/documentation-of-hugo-theme-meme/&#34;&gt;文档信息&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我比较喜欢目前这样的菜单栏，没有过多的图标，简单明了。这需要在 &lt;code&gt;content/&lt;/code&gt; 下建立两个文件夹，&lt;code&gt;life/&lt;/code&gt; 和 &lt;code&gt;tech/&lt;/code&gt;。
+标题的话和 &lt;code&gt;about/&lt;/code&gt; 类似，需要新建一个 &lt;code&gt;_index.md&lt;/code&gt;，在内部的 front-matter 写上标题&lt;/p&gt;
+&lt;p&gt;自动化部署参考了「RioTian」 的这篇&lt;a href=&#34;https://io-oi.me/tech/documentation-of-hugo-theme-meme/&#34;&gt;文章&lt;/a&gt;。
+这里需要注意的是，在菜单分类中，如果没有其他文章，只放了 &lt;code&gt;_index.md&lt;/code&gt;，需要把 front-matter 中的 draft 设为 false，否则网页生成后会有 404&lt;/p&gt;
+&lt;p&gt;对于其他的一些美化，可看「天涯共此时」的&lt;a href=&#34;https://ztygcs.github.io/posts/meme%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E4%BA%8C/&#34;&gt;文章&lt;/a&gt;，如字体的设置&lt;/p&gt;
+&lt;p&gt;这里有一个我很喜欢的插件--页脚诗词😆，来自 荷戟独彷徨 的&lt;a href=&#34;https://guanqr.com/tech/website/add-jinrishici-in-meme/&#34;&gt;文章&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;顺便再附上 emoji &lt;a href=&#34;https://gist.github.com/rxaviers/7360908&#34;&gt;清单&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://novelinup.github.io/tech/hello-world/" />
             <id>https://novelinup.github.io/tech/hello-world/</id>
-            <updated>2021-06-08T11:35:48&#43;00:00</updated>
+            <updated>2021-06-08T13:39:28&#43;00:00</updated>
             <published>2021-06-07T21:59:05&#43;08:00</published>
             <author>
-                    <name>novelin</name>
+                    <name>Novelin</name>
                     <uri>https://novelinup.github.io/</uri>
                     <email>novelin@qq.com</email>
                     </author>
