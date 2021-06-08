@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">Novelin</title>
+    <subtitle type="html"></subtitle>
+    <updated>2021-06-08T11:35:50&#43;00:00</updated>
+    <id>https://novelinup.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://novelinup.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://novelinup.github.io/atom.xml" />
+    <author>
+            <name>novelin</name>
+            <uri>https://novelinup.github.io/</uri>
+            
+                <email>novelin@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://novelinup.github.io/tech/hello-world/" />
+            <id>https://novelinup.github.io/tech/hello-world/</id>
+            <updated>2021-06-08T11:35:48&#43;00:00</updated>
+            <published>2021-06-07T21:59:05&#43;08:00</published>
+            <author>
+                    <name>novelin</name>
+                    <uri>https://novelinup.github.io/</uri>
+                    <email>novelin@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">经过一番折腾，又一次回到了个人博客 经历了两年的折腾，对博客有了新的理解 这得益于对极简……</summary>
+            
+                <content type="html">&lt;p&gt;经过一番折腾，又一次回到了个人博客&lt;/p&gt;
+&lt;p&gt;经历了两年的折腾，对博客有了新的理解&lt;/p&gt;
+&lt;p&gt;这得益于对极简主义的思考，受益于该主题 MemE 的&lt;a href=&#34;https://io-oi.me/&#34;&gt;作者&lt;/a&gt;风格&lt;/p&gt;
+&lt;p&gt;博客应当原创，平日里要记录的学习笔记等，应在他处整理成册，再于此处做一个总结提炼&lt;/p&gt;
+&lt;p&gt;这样博客清晰明了，回顾时也不会觉得繁琐，他人看到时也能快速明白&lt;/p&gt;
+&lt;p&gt;这算是一次全新的开始，希望能坚持下去&lt;/p&gt;
+&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>

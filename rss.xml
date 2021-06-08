@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Novelin</title>
+        <link>https://novelinup.github.io/</link>
+        <description></description>
+        <generator>Hugo 0.83.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>novelin@qq.com (novelin)</managingEditor>
+        
+        
+            <webMaster>novelin@qq.com (novelin)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Tue, 08 Jun 2021 11:35:50 &#43;0000</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://novelinup.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://novelinup.github.io/tech/hello-world/</link>
+                <guid isPermaLink="true">https://novelinup.github.io/tech/hello-world/</guid>
+                <pubDate>Mon, 07 Jun 2021 21:59:05 &#43;0800</pubDate>
+                
+                    <author>novelin@qq.com (novelin)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;经过一番折腾，又一次回到了个人博客&lt;/p&gt;
+&lt;p&gt;经历了两年的折腾，对博客有了新的理解&lt;/p&gt;
+&lt;p&gt;这得益于对极简主义的思考，受益于该主题 MemE 的&lt;a href=&#34;https://io-oi.me/&#34;&gt;作者&lt;/a&gt;风格&lt;/p&gt;
+&lt;p&gt;博客应当原创，平日里要记录的学习笔记等，应在他处整理成册，再于此处做一个总结提炼&lt;/p&gt;
+&lt;p&gt;这样博客清晰明了，回顾时也不会觉得繁琐，他人看到时也能快速明白&lt;/p&gt;
+&lt;p&gt;这算是一次全新的开始，希望能坚持下去&lt;/p&gt;
+&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
